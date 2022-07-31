@@ -1,0 +1,16 @@
+Planets earth = new Planets();
+earth.name = 'Earth';
+earth.planetNum = 3;
+earth.numMoons = 1;
+system.debug(earth);
+system.debug(earth.name);
+system.debug(earth.planetNum);
+system.debug(earth.numMoons);
+ Planets saturn = new Planets();
+ saturn.name = 'Saturn';
+ saturn.planetNum = 6;
+ saturn.numMoons = 1;
+ system.debug(saturn);
+ system.debug(saturn.name);
+ system.debug(saturn.planetNum);
+ system.debug(saturn.numMoons);
